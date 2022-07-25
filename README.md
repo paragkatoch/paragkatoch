@@ -4,8 +4,6 @@
 
 My name is Parag Katoch and I'm a software developer. I'm from India, living in New Delhi.
 
-<br/>
-
 
 
 ### GitHub Stats 🫣
@@ -13,7 +11,7 @@ My name is Parag Katoch and I'm a software developer. I'm from India, living in 
 [<img height="150px" src="https://github-readme-stats.vercel.app/api?username=paragkatoch&show_icons=true&include_all_commits=true&count_private=true&line_height=24" />][2] | [<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paragkatoch&hide=html&hide_border=true&layout=compact&langs_count=6" />][2] 
 | ------------- | ------------- |
 
-<br/>
+
 
 
 ### Languages 📖
@@ -31,7 +29,6 @@ My name is Parag Katoch and I'm a software developer. I'm from India, living in 
 [![](https://img.shields.io/badge/-⛳️%20OnePort-000)](https://oneport.osenorth.co/)
 [![](https://img.shields.io/badge/-👾%20Sorting%20Algorithm%20Visualizer-000)](http://paragkatoch.me/sorting-algo-visualizer/)
 
-<br/>
 
 
 ### Tools ⚒️
@@ -51,7 +48,7 @@ My name is Parag Katoch and I'm a software developer. I'm from India, living in 
 ![mongodb](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 
-<br/>
+
 
 
 ### Contact me 📦
