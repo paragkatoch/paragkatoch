@@ -4,14 +4,6 @@
 
 My name is Parag Katoch and I'm a software developer. I'm from India, living in New Delhi.
 
-### Contact me 📦
-
-[![My Website](https://img.shields.io/badge/-🧑‍💻%20My%20Website-000?logo=website)][1]
-[![Github](https://img.shields.io/badge/-%20Github-000?&logo=github)][6]
-[![Twitter](https://img.shields.io/badge/-%20Twitter-000?&logo=Twitter)][3]
-[![LinkedIn](https://img.shields.io/badge/-%20LinkedIn-000?&logo=linkedin)][4]
-[![](https://img.shields.io/badge/-%20Mail-000?&logo=gmail)][5]
-
 
 ### Languages 📖
 
@@ -46,6 +38,17 @@ My name is Parag Katoch and I'm a software developer. I'm from India, living in 
 ![graphql](https://img.shields.io/badge/-GraphQL-000?&logo=graphQL)
 ![mongodb](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+
+
+
+### Contact me 📦
+
+[![My Website](https://img.shields.io/badge/-🧑‍💻%20My%20Website-000?logo=website)][1]
+[![Github](https://img.shields.io/badge/-%20Github-000?&logo=github)][6]
+[![Twitter](https://img.shields.io/badge/-%20Twitter-000?&logo=Twitter)][3]
+[![LinkedIn](https://img.shields.io/badge/-%20LinkedIn-000?&logo=linkedin)][4]
+[![](https://img.shields.io/badge/-%20Mail-000?&logo=gmail)][5]
+
 
 
 ### GitHub Stats 🫣
