@@ -4,14 +4,13 @@
 
 My name is Parag Katoch and I'm a software developer. I'm from India, living in New Delhi.
 
+### Contact me 📦
 
-
-### GitHub Stats 🫣
- 
-[<img height="150px" src="https://github-readme-stats.vercel.app/api?username=paragkatoch&show_icons=true&include_all_commits=true&count_private=true&line_height=24" />][2] | [<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paragkatoch&hide=html&hide_border=true&layout=compact&langs_count=6" />][2] 
-| ------------- | ------------- |
-
-
+[![My Website](https://img.shields.io/badge/-🧑‍💻%20My%20Website-000?logo=website)][1]
+[![Github](https://img.shields.io/badge/-%20Github-000?&logo=github)][6]
+[![Twitter](https://img.shields.io/badge/-%20Twitter-000?&logo=Twitter)][3]
+[![LinkedIn](https://img.shields.io/badge/-%20LinkedIn-000?&logo=linkedin)][4]
+[![](https://img.shields.io/badge/-%20Mail-000?&logo=gmail)][5]
 
 
 ### Languages 📖
@@ -22,13 +21,13 @@ My name is Parag Katoch and I'm a software developer. I'm from India, living in 
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
 
+
 ### Projects 🧑‍🔧
 
-<!-- [![](https://img.shields.io/badge/-🧬%20My%20Website-000)][1] -->
+[![](https://img.shields.io/badge/-🧬%20My%20Website-000)][1]
 [![](https://img.shields.io/badge/-📚%20Dev%20Portal-000)](https://dev--portal.vercel.app/)
 [![](https://img.shields.io/badge/-⛳️%20OnePort-000)](https://oneport.osenorth.co/)
 [![](https://img.shields.io/badge/-👾%20Sorting%20Algorithm%20Visualizer-000)](http://paragkatoch.me/sorting-algo-visualizer/)
-
 
 
 ### Tools ⚒️
@@ -49,23 +48,17 @@ My name is Parag Katoch and I'm a software developer. I'm from India, living in 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 
 
-
-
-### Contact me 📦
-
-<!-- [![My Website](https://img.shields.io/badge/-🧑‍💻%20My%20Website-000?logo=website)][1] -->
-[![Github](https://img.shields.io/badge/-%20Github-000?&logo=github)][6]
-[![Twitter](https://img.shields.io/badge/-%20Twitter-000?&logo=Twitter)][3]
-[![LinkedIn](https://img.shields.io/badge/-%20LinkedIn-000?&logo=linkedin)][4]
-[![](https://img.shields.io/badge/-%20Mail-000?&logo=gmail)][5]
-
+### GitHub Stats 🫣
+ 
+[<img height="150px" src="https://github-readme-stats.vercel.app/api?username=paragkatoch&show_icons=true&include_all_commits=true&count_private=true&line_height=24" />][2] | [<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paragkatoch&hide=html&hide_border=true&layout=compact&langs_count=6" />][2] 
+| ------------- | ------------- |
 
 
 
 
 <!-- links to your social media accounts -->
 
-[1]: https://github.com/paragkatoch/paragkatoch
+[1]: https://paragkatoch.me
 [2]: https://github.com/paragkatoch
 [3]: https://twitter.com/paragkatoch
 [4]: https://www.linkedin.com/in/paragkatoch/
